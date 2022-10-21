@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 600px;
+    margin: auto;
+}
+
+.list-group{
+    border: 1px solid black ;   
+    list-style-type: none;
+
+    
+}
+
+.float-right {
+    float: right;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rebeccapurple;
+}
